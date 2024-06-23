@@ -1,0 +1,5 @@
+node_modules
+content-service/node_modules
+invoice-service/node_modules
+streaming-service/node_modules
+user-service/node_modules
