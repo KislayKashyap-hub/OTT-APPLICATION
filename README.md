@@ -1,4 +1,4 @@
-# Microservices-for-OTT-Application
+# OTT-Application
 
 ## Overview
 The OTT Project is a microservices-based application designed to manage various aspects of an Over-The-Top (OTT) media service. The project is divided into four main services:
