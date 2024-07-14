@@ -98,4 +98,4 @@ The Invoice Service ensures accurate billing, provides users with a history of t
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KislayKashyap-hub/Microservices-for-OTT-Application.git
+   git clone https://github.com/KislayKashyap-hub/OTT-Application.git
